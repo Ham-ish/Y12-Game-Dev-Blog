@@ -1,6 +1,6 @@
 # Game-Dev-Blog
 
-[test page](./test)
+[test page](./Blog 1)
 
 
 ## 13/2/23: And So it Begins

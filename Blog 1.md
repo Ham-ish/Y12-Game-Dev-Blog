@@ -1,5 +1,5 @@
 <div style="width: 50%; padding: 20px; background-color: lightgray; float: left; margin-left: -55%; margin-top: -180px;">
-  [Home](./index.md)
+  [Home](index.md)
 </div>
 
 
@@ -20,7 +20,7 @@ I began the process of learning Unreal Engine by getting access to Unreal Engine
 <img src="Images/Unreal Process has crashed.png" title="Unreal Process has Crashed.png" width="700"/>
 
 
-So I spent too much time redownloading the Engine on my significantly less bad desktop computer and started the *5 hour* tutorial, and immediately encountered something fairly funny. The beginner scene that I was using was a peice of fairly flat terrain made up of a 5 by 5 grid of smaller terrain tiles. As a test I tried to make a piece of smaller terrain transparent, and that crashed it again. This issue happened twice and then vanished, and I began the first twenty minutes of the tutorial then completly remade my blog website in HTML.
+So I spent too much time redownloading the Engine on my significantly less bad desktop computer and started the *5 hour* tutorial, and immediately encountered something fairly funny. The beginner scene that I was using was a peice of fairly flat terrain made up of a grid of smaller terrain tiles. As a test I tried to make a piece of smaller terrain transparent, and that crashed it again. This issue happened twice and then vanished, and I began the first twenty minutes of the tutorial then completly remade my blog website in HTML.
 
 ## So Basically
 

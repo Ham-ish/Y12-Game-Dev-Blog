@@ -1,7 +1,7 @@
 <div style="width: 40%; padding: 20px; background-color: lightgray; float: left; margin-left: -50%; margin-top: -180px;">
 
 <a href="./index.md">
-    <img src="index_icon.png" alt="Home">
+    <img src="Images/Game Dev Icon.png" alt="Home">
   </a>
 
 </div>

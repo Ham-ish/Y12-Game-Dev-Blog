@@ -1,4 +1,4 @@
-<div style="width: 50%; padding: 20px; background-color: lightgray; float: left; margin-left: -25%;">
+<div style="width: 50%; padding: 20px; background-color: lightgray; float: left; margin-left: -50%; margin-top: -50px;">
   This is some text inside the text box.
 </div>
 

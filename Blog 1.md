@@ -10,7 +10,7 @@ I have decided that in this semester of Game Dev, I will learn Unreal Engine, an
 
 I began the process of learning Unreal Engine by getting access to Unreal Engine, which is where I ran into my first problem. The laptop I am running all of my schoolwork on has less than the minumum specs to run Unreal Engine, so I spent an entire afternoon downloading the various things to make it work to be met with
 
-<img src="Images/Unreal Process has crashed.png" title="Unreal Process has Crashed.png" width="400"/>
+<img src="Images/Unreal Process has crashed.png" title="Unreal Process has Crashed.png" width="700"/>
 
 
 So I spent too much time redownloading the Engine on my significantly less bad desktop computer and started the *5 hour* tutorial, and immediately encountered something fairly funny. The beginner scene that I was using was a peice of fairly flat terrain made up of a 5 by 5 grid of smaller terrain tiles. As a test I tried to make a piece of smaller terrain transparent, and that crashed it again. This issue happened twice and then vanished, and I began the first twenty minutes of the tutorial then completly remade my blog website in HTML.

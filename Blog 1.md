@@ -1,3 +1,9 @@
+<div style="width: 50%; padding: 20px; background-color: lightgray; float: left;">
+  This is some text inside the text box.
+</div>
+
+
+
 ## 13/2/23: And So it Begins
 
 ### Overveiw

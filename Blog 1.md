@@ -1,5 +1,5 @@
 <div style="width: 40%; padding: 20px; background-color: lightgray; float: left; margin-left: -50%; margin-top: -180px;">
-  [Home](index.md)
+  [Home](../Y12-Game-Dev-Blog/index.md)
 </div>
 
 

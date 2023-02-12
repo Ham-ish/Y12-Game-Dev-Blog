@@ -1,7 +1,7 @@
-<div style="width: 40%; padding: 20px; background-color: lightgray; float: left; margin-left: -50%; margin-top: -180px;">
+<div style="width: 40%; padding: 20px; background-color: E6E6E6; float: left; margin-left: -50%; margin-top: -180px;">
 
 <a href="./index.md">
-    <img src="Images/Game Dev Icon.png" alt="Home">
+    <img src="Images/Game Dev Icon.png" width=20px alt="Home">
   </a>
 
 </div>

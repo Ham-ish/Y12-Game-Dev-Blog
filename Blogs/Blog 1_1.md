@@ -31,6 +31,11 @@ I began the process of learning Unreal Engine by getting access to Unreal Engine
 
 So I spent too much time redownloading the Engine on my significantly less bad desktop computer and started the *5 hour* tutorial, and immediately encountered something fairly funny. The beginner scene that I was using was a peice of fairly flat terrain made up of a grid of smaller terrain tiles. As a test I tried to make a piece of smaller terrain transparent, and that crashed it again. This issue happened twice and then vanished, and I began the first twenty minutes of the tutorial then completly remade my blog website in HTML.
 
+<img src="../Images/Unreal shape.png" title="Unreal Ground Cube.png" width="700"/>
+<img src="../Images/Unreal rotate shape.png" title="Unreal rotate shape.png" width="700"/>
+<img src="../Images/Unreal light.png" title="Unreal Light Rotation.png" width="700"/>
+<img src="../Images/Unreal sunset shape.png" title="Sunset shape.png" width="700"/>
+
 ## So Basically
 
 Things have started off fairly well. I am very hopeful that they continue as such. 

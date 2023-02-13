@@ -17,7 +17,12 @@ It is time to begin another year of Game Dev Writings and Readings and Bloggings
 
 I have decided that in this semester of Game Dev, I will learn Unreal Engine, and then use it to make game. This worries me because I did not really do the first semester of year 11 Game Dev, which contained the Art and Programming parts.
 
-## Unreal Engine
+## What even is Unreal Engine
+
+[This](https://www.unrealengine.com/en-US/unreal-engine-5), or [this](https://en.wikipedia.org/wiki/Unreal_Engine) if you want. Unreal Engine is a game engine that has good enough graphics capabilities to make a good movie. It was created in 1996 and the version that I am using, Unreal 5 was bestowed upon us by the cool people at epic games in 2022. 
+
+
+## Trying to learn Unreal Engine
 
 I began the process of learning Unreal Engine by getting access to Unreal Engine, which is where I ran into my first problem. The laptop I am running all of my schoolwork on has less than the minumum specs to run Unreal Engine, so I spent an entire afternoon downloading the various things to make it work to be met with
 
@@ -28,4 +33,4 @@ So I spent too much time redownloading the Engine on my significantly less bad d
 
 ## So Basically
 
-Things have started off really well. I am very hopeful that they continue as such. 
+Things have started off fairly well. I am very hopeful that they continue as such. 

@@ -20,6 +20,8 @@ I did the first 2 questions on this website then got stuck because I couldn't ru
 
 <img src="../Images/PicoCTF no good.png" title="AAAAAAAHHHHHH.png" width="600"/>
 
+I am fairly sure I understand that the .wav one is spectography but I cannot download the file so I cannot run it through to find out
+
 ### In Conclusion and plan for the next week
 
-I will continue along with PicoCTF dispite my greivances as it seems to be an exelent tool to learn this competition genre and hone problem-solving skills
+I will continue along with PicoCTF dispite my greivances as it seems to be an exelent tool to learn this competition genre and hone problem-solving skills.

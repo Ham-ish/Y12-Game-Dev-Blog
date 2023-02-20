@@ -20,7 +20,7 @@ I did the first 2 questions on this website then got stuck because I couldn't ru
 
 <img src="../Images/PicoCTF no good.png" title="AAAAAAAHHHHHH.png" width="600"/>
 
-I am fairly sure I understand that the .wav one is spectography but I cannot download the file so I cannot run it through to find out
+I am fairly sure I understand that the .wav one is spectography but I cannot download the file so I cannot run it through to find out. More problems like these are why I stopped.
 
 ### In Conclusion and plan for the next week
 

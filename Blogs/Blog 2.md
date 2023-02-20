@@ -8,6 +8,13 @@ Last year I signed up for a (team) capture the flag competition for cyber securi
 
 ### Grok
 
+I completed the Cyberlive Module, which is styled off a CTF type event that was fairly easy, the only difficult question being one about changing the RGB and bits in an image to find a code, there are 108 possible combinations which i didn't want to brute force.
 
+
+
+
+### PicoCTF
+
+I did the first 2 questions on this website then got stuck because I couldn't run python code, or i couldn't download a .wav file
 
 ### In Conclusion and plan for the next week

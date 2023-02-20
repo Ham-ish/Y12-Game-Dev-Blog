@@ -10,6 +10,7 @@ Last year I signed up for a (team) capture the flag competition for cyber securi
 
 I completed the Cyberlive Module, which is styled off a CTF type event that was fairly easy, the only difficult question being one about changing the RGB and bits in an image to find a code, there are 108 possible combinations which i didn't want to brute force.
 
+<img src="../Images/CTF grok full.png" title="RGB ship.png" width="300"/><img src="../Images/CTF grok empty.png" title="RGB code.png" width="300"/>
 
 
 

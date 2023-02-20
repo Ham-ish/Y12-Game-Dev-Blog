@@ -22,3 +22,4 @@ I did the first 2 questions on this website then got stuck because I couldn't ru
 
 ### In Conclusion and plan for the next week
 
+I will continue along with PicoCTF dispite my greivances as it seems to be an exelent tool to learn this competition genre and hone problem-solving skills

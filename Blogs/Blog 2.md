@@ -16,6 +16,9 @@ I completed the Cyberlive Module, which is styled off a CTF type event that was 
 
 ### PicoCTF
 
-I did the first 2 questions on this website then got stuck because I couldn't run python code, or I couldn't download a .wav file
+I did the first 2 questions on this website then got stuck because I couldn't run python code, or I couldn't download a .wav file. This was quite frustrating.
+
+<img src="../Images/PicoCTF no good.png" title="AAAAAAAHHHHHH.png" width="600"/>
 
 ### In Conclusion and plan for the next week
+

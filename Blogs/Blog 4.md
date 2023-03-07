@@ -32,7 +32,7 @@ I have 2 IT exams on Tuesday so I put together some notes that might help.
 
 <img src="../Images/Extended response notes.png" title="Exam Notes.png" width="500"/>
 
-I also have sources for that stuff
+I also have sources for that stuff.
 
 ### In Conclusion and plan for the next week and exams
 

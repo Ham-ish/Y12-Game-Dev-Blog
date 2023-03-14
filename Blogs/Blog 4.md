@@ -24,7 +24,7 @@ Probably not much.
 
 I was mostly focusing on the phishing ones and the security structure one
 
-The security structure was just the one that Lockheed Martin uses and is written on a security PDF that is Google-searchable, and i couldn't for the life of me figure out what the Phishing ones were.
+The security structure was just the one that Lockheed Martin uses and is written on a security PDF that is Google-searchable, and I couldn't for the life of me figure out what the Phishing ones were.
 
 ### Preparing for Exams
 

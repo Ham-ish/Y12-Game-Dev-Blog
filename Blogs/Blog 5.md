@@ -33,3 +33,4 @@ Here is all of the stuff I learned
 
 ### In Conclusion and plan for the next week
 
+Possibly finish the Tutorial? otherwise try not to be swamped by the massive number of assignments that are coming up.

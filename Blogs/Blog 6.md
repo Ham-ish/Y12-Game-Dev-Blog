@@ -10,7 +10,7 @@ I was indeed swamped by the number of assignments coming up, ergo, this is the l
 
 But first,
 
-I did talk in class this week about my current pathway in game dev, for which the outcome is making a game. this means I will need to come up with an idea for a game and focus my learning around that idea. In my next blogs I plan to write down some of the better ones.
+I did talk in class this week about my current pathway in game dev, for which the outcome is making a game. This means I will need to come up with an idea for a game and focus my learning around that idea. In my next blogs I plan to write down some of the better ones.
 
 ### Unreal engine textures more detail
 
@@ -25,6 +25,7 @@ This is a texture containing an earth texture and a normal map. these are going 
 <img src="../Images/Unreal engine 2.png" title="Unreal engine 2.png" width="800"/>
 
 Previous texture on a sphere
+
 <img src="../Images/Unreal engine 8.png" title="Unreal engine 9.png" width="800"/>
 
 This texture uses prelin noise in the metalic value to create a material that is always the same colour, but has different ammounts of shininess in different places
@@ -44,7 +45,7 @@ This was the texture testing model used in the tutorial it has multiple surfaces
 
 <img src="../Images/Unreal engine 6.png" title="Unreal engine 6.png" width="800"/>
 
-This is a texture that uses prebuilt normal and roughness texures that fit the colour so that the images can be put together in a material and fit perfectly. it also has a hue modifier, which changes the colour of the bricks from an orangey brown to the red wine colour that it outputs. Finally, the size is being modified by the three tiles on the left, where the botom one is a parameter, which means an instance of this material can be modified live, in the world, rather than having to edit the material itself. 
+This is a texture that uses prebuilt normal and roughness texures that fit the colour so that the images can be put together in a material and fit perfectly. It also has a hue modifier, which changes the colour of the bricks from an orangey brown to the red wine colour that it outputs. Finally, the size is being modified by the three tiles on the left, where the botom one is a parameter, which means an instance of this material can be modified live, in the world, rather than having to edit the material itself. 
 
 <img src="../Images/Unreal engine 5.png" title="Unreal engine 7.png" width="800"/>
 
@@ -52,10 +53,10 @@ Material application on sphere
 
 <img src="../Images/Unreal engine 3.png" title="Unreal engine 8.png" width="800"/>
 
-Material origional next to material instance, and editing the instance size
+Material original next to material instance, and editing the instance size
 
 ### In Conclusion and plan for the next week
 
-Still did not finish the Tutorial. so I shall continue chipping away at that. The reason I haven't finished it is that, when I get around to working on it, after about  20 to 40 minutes I'll get distracted and work on somthing else.
+Still did not finish the Tutorial. So I shall continue chipping away at that. The reason I haven't finished it is that, when I get around to working on it, after about  20 to 40 minutes I'll get distracted and work on somthing else.
 
-With this in mind next weeks goal is still to finish the tutorial, and also to come up with good ideas for games to create.
+With this in mind next weeks goal is still to finish the tutorial with a renewed vigor, and also to come up with good ideas for games to create.

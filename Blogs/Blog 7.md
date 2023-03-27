@@ -24,6 +24,6 @@ This is a box model imported from the files given by the tutorial man. The textu
 
 ### In Conclusion and plan for the next week
 
-This was another rather short one, because I spent most of last week writing my DT which I though I had finished, and writing [Some IT Blog](https://ham-ish.github.io/Y12-Game-Dev-Blog/)[s](https://ham-ish.github.io/Y12-Robotics-Blog/) so I couldn't get a lot of work done.
+This was another rather short one, because I spent most of last week writing my DT which I though I had finished, and writing [Some IT Blog](https://ham-ish.github.io/Y12-Game-Dev-Blog/) [s](https://ham-ish.github.io/Y12-Robotics-Blog/) so I couldn't get a lot of work done.
 
 As far as a plan for next week goes, it is the same as last week. Keeping the nose at the grindstone of tutorials and hoping that a good game idea comes to mind while I do it.

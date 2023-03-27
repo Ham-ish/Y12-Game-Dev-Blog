@@ -10,19 +10,18 @@ This week in the tutorial I learned how a master material works. I did not, howe
 
 Master materials are useful things. They are materials for which everything is a parameter. This means you can create an instance of this material, and change the parameters to be any other material.
 
-<img src="../Images/Master Material.png" title="Material boxes.png" width="800"/>
+<img src="../Images/Master Material.png" title="Material Boxes.png" width="800"/>
 
-This is the material that I created to be the master material
+This is the material that I created to be the master material. Iy has parameters for roughness, metallicness, and normalness, as well as a shade modifier. The texture that I used for it is the "Default texture" because it is very visibly not supposed to be anywhere,
 
-<img src="../Images/Box instance.png" title="Material boxes.png" width="800"/>
+<img src="../Images/Box instance.png" title="Boxes Material.png" width="800"/>
 
-<img src="../Images/Box instance Edit.png" title="Material boxes.png" width="800"/>
+This is a box model imported from the files given by the tutorial man. The texture it uses is an instance of the master material, with textures from the tutorial
 
-
-
-### 2
+<img src="../Images/Box instance Edit.png" title="Boxes Material Boxes.png" width="800"/>
 
 
 
 ### In Conclusion and plan for the next week
 
+This was another rather short one, because I spent most of last week writing my DT which I though I had finished, and writing Some IT Blogs[Some IT Blog](https://ham-ish.github.io/Y12-Game-Dev-Blog/)[s](https://ham-ish.github.io/Y12-Robotics-Blog/)

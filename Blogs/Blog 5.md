@@ -1,6 +1,6 @@
 # Game Dev Blog 
 
-## 6/3/23: Post-Exam and After That 
+## 13/3/23: Post-Exam and After That 
 
 ### Overveiw
 

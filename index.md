@@ -1,7 +1,7 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[13/3/23 More Blog](./Blogs/Blog 7.md)
+[3/4/23 T1 Last Blog](./Blogs/Blog 8.md)
 
 ## other blogs
 

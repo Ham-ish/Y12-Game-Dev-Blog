@@ -4,16 +4,30 @@
 
 ### Overveiw
 
-RPG in a box stuff
+I was browsing the internet one lazy afternoon, and came across an interesting software. It was called RPG in a Box and is going to be what I am working on over the holidays probably.
 
 ### Unreal engine
 
+I barely even opened Unreal engine all week
 
 ### RPG in a box
 
+RPG in a Box is a software that you can use to create a lot of things, like levels, models, and items, and then put them together in your own game.
+
+I started using it, tryed out the premade demo game, and then tryed to make a voxel model of a frog
+
+TORTOISE
+
+It did not work out quite as I expected
 
 ### My current idea
 
-game where you have to run out of money 
+I came up with an idea for a game that I could create in RPG in a Box or some other one.
 
-### In Conclusion and plan for the next week
+"A game where you have to run out of money"
+
+You start with a certain amount of currency and you have to try to get to 0. Any lower and you lose. I was thinking of making it a puzzle game
+
+### In Conclusion and plan for the Holidays
+
+

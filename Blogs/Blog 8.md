@@ -25,6 +25,7 @@ But I made it waddle
 <img src="../Images/Turt 1.png" title="Material Boxes.png" width="300"/>
 <img src="../Images/Turt 2.png" title="Material Boxes.png" width="300"/>
 
+I have it running through an animation that does these two frames between the frame of it standing still, and have a nice waddle cycle animation.
 
 ### My current idea
 

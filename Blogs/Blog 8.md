@@ -16,9 +16,15 @@ RPG in a Box is a software that you can use to create a lot of things, like leve
 
 I started using it, tryed out the premade demo game, and then tryed to make a voxel model of a frog
 
-TORTOISE
+<img src="../Images/Turt.png" title="Material Boxes.png" width="800"/>
 
 It did not work out quite as I expected
+
+But I made it waddle
+
+<img src="../Images/Turt 1.png" title="Material Boxes.png" width="300"/>
+<img src="../Images/Turt 2.png" title="Material Boxes.png" width="300"/>
+
 
 ### My current idea
 
@@ -30,4 +36,8 @@ You start with a certain amount of currency and you have to try to get to 0. Any
 
 ### In Conclusion and plan for the Holidays
 
+As this is the last blog of this term, I will not write a blog next week. I might get around to printing things in the holidays.
 
+If I properly learn RPG in a Box over the holidays then I will write about it next term, but if i completly forget about RPG in a Box over the holidays then the tutorial will be finished.
+
+This week was good, I am running out of steam for the term though.

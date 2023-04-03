@@ -14,7 +14,7 @@ I barely even opened Unreal engine all week
 
 RPG in a Box is a software that you can use to create a lot of things, like levels, models, and items, and then put them together in your own game.
 
-I started using it, tryed out the premade demo game, and then tryed to make a voxel model of a frog
+I started using it, tried out the premade demo game, and then tried to make a voxel model of a frog
 
 <img src="../Images/Turt.png" title="Material Boxes.png" width="800"/>
 

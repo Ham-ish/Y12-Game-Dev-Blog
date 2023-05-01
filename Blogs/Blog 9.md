@@ -14,6 +14,17 @@ In the project, I will have to make a Game Design Document (GDD) and then Make a
 
 Over the holidays I looked at some tutorials and looked at some examples. I figured out how to make the player character move up and down stairs and have all of the floors above them disappear. I do this by running a script whenever the character goes onto some stairsto make the floor the stair is on appear. I could also use this to make only the floor that the player is on appear.
 
+
+'''c
+hide_group("floor 5");
+hide_group("floor 4");
+hide_group("floor 3");
+hide_group("floor 2");
+show_group("floor 1");
+
+
+'''c
+
 ### Current idea progress
 
 By setting this up, I have now made it possible to have 20 unique 10 by 10 block levels, which makes my idea of a level based game much more feasable.

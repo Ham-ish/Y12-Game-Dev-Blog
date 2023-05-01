@@ -7,6 +7,8 @@ Game Dev Blog
 
 * [1/5/23 T2 First Blog](./Blogs/Blog 9.md)
 
+* [3/4/23 T1 Last Blog](./Blogs/Blog 8.md)
+
 * [27/3/23 More Blog](./Blogs/Blog 7.md)
 
 * [20/3/23 Recap Blog](./Blogs/Blog 6.md)

@@ -15,6 +15,19 @@ In the project, I will have to make a Game Design Document (GDD) and then Make a
 Over the holidays I looked at some tutorials and looked at some examples. I figured out how to make the player character move up and down stairs and have all of the floors above them disappear. I do this by running a script whenever the character goes onto some stairsto make the floor the stair is on appear. I could also use this to make only the floor that the player is on appear.
 
 
+<img src="../Images/Layers.png" title="Material Boxes.png" width="800"/>
+<img src="../Images/Layers Path.png" title="Material Boxes.png" width="800"/>
+<img src="../Images/Justin top.png" title="Material Boxes.png" width="800"/>
+<img src="../Images/Justin down.png" title="Material Boxes.png" width="800"/>
+<img src="../Images/Turt.Stairs 1" title="Material Boxes.png" width="800"/>
+
+
+
+
+
+
+
+
 '''c
 hide_group("floor 5");
 hide_group("floor 4");

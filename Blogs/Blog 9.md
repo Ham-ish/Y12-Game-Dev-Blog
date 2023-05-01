@@ -28,15 +28,13 @@ Over the holidays I looked at some tutorials and looked at some examples. I figu
 
 
 
-'''c
+```
 hide_group("floor 5");
 hide_group("floor 4");
 hide_group("floor 3");
 hide_group("floor 2");
 show_group("floor 1");
-
-
-'''c
+```
 
 ### Current idea progress
 

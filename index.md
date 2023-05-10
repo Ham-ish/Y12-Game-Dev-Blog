@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[1/5/23 T2 First Blog](./Blogs/Blog 9.md)
+[8/5/23 Gae Blog](./Blogs/Blog 10.md)
 
 ## other blogs
+
+* [8/5/23 Gae Blog](./Blogs/Blog 10.md) 
 
 * [1/5/23 T2 First Blog](./Blogs/Blog 9.md)
 

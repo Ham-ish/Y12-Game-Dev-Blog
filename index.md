@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[8/5/23 Gae Blog](./Blogs/Blog 10.md)
+[15/5/23 Ruyi Jingu Blog](./Blogs/Blog 11.md)
 
 ## other blogs
+
+* [15/5/23 Ruyi Jingu Blog](./Blogs/Blog 11.md)
 
 * [8/5/23 Gae Blog](./Blogs/Blog 10.md) 
 

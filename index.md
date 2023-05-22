@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[15/5/23 Ruyi Jingu Blog](./Blogs/Blog 11.md)
+[22/5/23 Excaliblog](./Blogs/Blog 12.md)
 
 ## other blogs
+
+* [22/5/23 Excaliblog](./Blogs/Blog 12.md)
 
 * [15/5/23 Ruyi Jingu Blog](./Blogs/Blog 11.md)
 

@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[30/5/23 Caladblog](./Blogs/Blog 13.md)
+[24/7/23 GDD](./Blogs/Blog 14.md)
 
 ## other blogs
+
+* [24/7/23 GDD](./Blogs/Blog 14.md)
 
 * [30/5/23 Caladblog](./Blogs/Blog 13.md)
 

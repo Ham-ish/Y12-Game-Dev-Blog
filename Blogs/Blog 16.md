@@ -1,6 +1,6 @@
 # Game Dev Blog 
 
-## 7/7/23: Start of Semester 2
+## 7/8/23: Start of Semester 2
 
 ### Overveiw
 
@@ -10,8 +10,11 @@ Since last week, I have mosly been working on learning how Unreal Engine makes r
 
 **Images of Messing Around in Unreral**
 
+Social commentary + how this is going to help my game
+
 **Images of Messing Around in Blender**
 
+filler text
 
 ### In Conclusion and plan for Next Week
 

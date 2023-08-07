@@ -17,7 +17,7 @@ This is a rigged robot model. I used the bones to make the character point at th
 
 This should be a video of an inflating Doughnut
 
-The reason I have made this doughnut is because I want to try making my own models and actors for this game, bec=fore giving up because I remember that I am not any good at making things look good. To do this, I have decided to use Blender, bus as it has been some time since I have used blender and my skills there aren't great, I have decided to start back at the beginning, with the BlenderGuru Doughnut tutorial.
+The reason I have made this doughnut is because I want to try making my own models and actors for this game, before giving up because I remember that I am not any good at making things look good. To do this, I have decided to use Blender, bus as it has been some time since I have used blender and my skills there aren't great, I have decided to start back at the beginning, with the BlenderGuru Doughnut tutorial.
 
 ### In Conclusion and plan for Next Week
 

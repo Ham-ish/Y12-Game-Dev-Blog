@@ -8,13 +8,14 @@ Since last week, I have mosly been working on learning how Unreal Engine makes r
 
 ### Game Work
 
-**Images of Messing Around in Unreral**
+<img src="../Images/Screenshot 2023-08-07 at 7.23.37 pm.png" width=400px alt="Robot Pointing">
 
-Social commentary + how this is going to help my game
+This is a riggrd robot model. I used the bones to make the character point at the distance
 
-**Images of Messing Around in Blender**
+<video src="../Images/0000-0050.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
-filler text
+Thshould be a video of an inflating Doughnut
 
 ### In Conclusion and plan for Next Week
 

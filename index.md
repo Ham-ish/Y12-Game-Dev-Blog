@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[24/7/23 GDD](./Blogs/Blog 14.md)
+[31/7/23 Semester 2 Intro](./Blogs/Blog 15.md)
 
 ## other blogs
+
+* [31/7/23 Semester 2 Intro](./Blogs/Blog 15.md)
 
 * [24/7/23 GDD](./Blogs/Blog 14.md)
 

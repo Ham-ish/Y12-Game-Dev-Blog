@@ -1,6 +1,6 @@
 # Game Dev Blog 
 
-## 31/6/23: Start of Semester 2
+## 31/7/23: Start of Semester 2
 
 ### Overveiw
 

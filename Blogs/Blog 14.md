@@ -1,6 +1,6 @@
 # Game Dev Blog 
 
-## 30/5/23: Concerned blog
+## 30/5/23
 
 ### The GDD:
 

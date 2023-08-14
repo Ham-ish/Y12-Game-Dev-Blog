@@ -14,8 +14,10 @@ For the Practice Exam, I am going to be writing to the topic of "Addiction is a 
 
 ### Gameplay loop PDF
 
-I have been given a PDF on the Gameplay Loop topic, which I have so far glanced over, but I will be
+I have been given a PDF on the Gameplay Loop topic, which I have so far glanced over, but I will be looking at more thouroghly during the week.
 
 ### In Conclusion and plan for Next Week
 
+A bit of a short blog this week, but 
 
+Next week Monday, when I will be writing my next blog, is going to be 3 days before my Game Dev in-class, and on the day of my Math in-class, which I believe will be a little bit annoying, but hopefully I should have a notes sheet to bring up the word count.

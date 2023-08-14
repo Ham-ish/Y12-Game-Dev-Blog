@@ -1,9 +1,13 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[31/7/23 Semester 2 Intro](./Blogs/Blog 15.md)
+[14/8/23 ICAW Prep](./Blogs/Blog 17.md)
 
 ## other blogs
+
+* [14/8/23 ICAW Prep](./Blogs/Blog 17.md)
+
+* [7/8/23 Inflating Dougnut](./Blogs/Blog 16.md)
 
 * [31/7/23 Semester 2 Intro](./Blogs/Blog 15.md)
 

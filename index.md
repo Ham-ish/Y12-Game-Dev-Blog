@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[14/8/23 ICAW Prep](./Blogs/Blog 17.md)
+[21/8/23 post-ICAW](./Blogs/Blog 18.md)
 
 ## other blogs
+
+* [21/8/23 post-ICAW](./Blogs/Blog 18.md)
 
 * [14/8/23 ICAW Prep](./Blogs/Blog 17.md)
 

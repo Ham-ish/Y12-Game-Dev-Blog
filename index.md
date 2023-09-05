@@ -1,9 +1,13 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[21/8/23 post-ICAW](./Blogs/Blog 18_1.md)
+[4/9/23 I am Become Blog, updater of progress](./Blogs/Blog 20.md)
 
 ## other blogs
+
+* [4/9/23 I am Become Blog, updater of progress](./Blogs/Blog 20.md)
+
+* [28/8/23 Terrible, No-Good, Very Bad](./Blogs/Blog 19.md)
 
 * [21/8/23 post-ICAW](./Blogs/Blog 18_1.md)
 

@@ -97,3 +97,5 @@ To do:
 - See What Happens
 
 - Work on Godot
+
+- Present next weeks blog information to practice for the real thing

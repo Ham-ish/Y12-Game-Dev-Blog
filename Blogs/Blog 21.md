@@ -1,6 +1,6 @@
 # Game Dev Blog 
 
-## 13/10/23: Beginning of ICAW things
+## 13/10/23: Beginning of Term things
 
 ### Overveiw
 

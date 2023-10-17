@@ -1,9 +1,11 @@
 Game Dev Blog
 
 # Most Recent Blog: 
-[13/10/23 After-Holiday Progress](./Blogs/Blog 21.md)
+[13/10/23 General Progress Update](./Blogs/Blog 22.md)
 
-## other blogs
+## All other blogs
+
+* [13/10/23 General Progress Update](./Blogs/Blog 22.md)
 
 * [4/9/23 I am Become Blog, updater of progress](./Blogs/Blog 20.md)
 

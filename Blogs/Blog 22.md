@@ -22,3 +22,6 @@ If I am able to do this properly, I believe that I will have time to finish my p
 
 ### In Conclusion and plan for Next Week
 
+I am presenting this information in front of the class as practice for the project presentation.
+
+Focus on my robotics so that I can finish it to a level that I can devote all of my IT time to making this game.
